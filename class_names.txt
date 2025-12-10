@@ -1,0 +1,5 @@
+01_palm
+02_fist
+03_ok
+04_index-right
+05_index-left
